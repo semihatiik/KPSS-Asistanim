@@ -1,0 +1,13 @@
+
+.DS_Store
+build/
+DerivedData/
+*.swp
+*.user
+*.mode1v3
+*.pbxuser
+
+
+Packages/
+build/
+
